@@ -5,4 +5,5 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 * [Python](#python)
 
 ---
+### Python
 - [Counting Words](python/count_words.py)

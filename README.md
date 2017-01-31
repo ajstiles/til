@@ -2,10 +2,14 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### Categories
 
+* [Go](#go)
 * [Kibana](#kibana)
 * [Python](#python)
 
 ---
+### Go
+- [Capturing HTTP Client Requests](go/capturing_http.md)
+
 ### Kibana
 - [Queries](kibana/queries.md)
 

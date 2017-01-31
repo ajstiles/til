@@ -8,7 +8,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ---
 ### Go
-- [Capturing HTTP Client Requests](go/capturing_http.md)
+- [Capturing HTTP Client Requests](go/capturing_http.go)
 
 ### Kibana
 - [Queries](kibana/queries.md)

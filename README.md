@@ -4,6 +4,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 * [Go](#go)
 * [Kibana](#kibana)
+* [Linux](#linux)
 * [Python](#python)
 
 ---
@@ -12,6 +13,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### Kibana
 - [Queries](kibana/queries.md)
+
+### Linux
+- [Locked, deleted files](linux/locked.md)
 
 ### Python
 - [Counting Words](python/count_words.py)
